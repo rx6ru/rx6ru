@@ -28,7 +28,9 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Pears-P2P-green?style=flat-square" alt="Pears P2P" style="margin-right: 10px; height: 30px;" />
 </p>
+
 
 **LLMs:**  
 <p>
