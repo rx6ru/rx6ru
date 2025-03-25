@@ -28,13 +28,11 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/Pears-P2P-green?style=flat-square" alt="Pears P2P" style="margin-right: 10px; height: 30px;" />
-  <!-- Ghidra block: Icon on one line, text below -->
 <span style="display: inline-flex; flex-wrap: nowrap; align-items: center; background-color: red;">
   <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GHIDRA_1.png" alt="Ghidra Icon" style="height: 28px;" />
   <img src="https://img.shields.io/badge/Ghidra-red?style=flat-square" alt="Ghidra" style="margin-left: 10px; height: 30px;" />
 </span>
-
+<img src="https://img.shields.io/badge/Pears-P2P-green?style=flat-square" alt="Pears P2P" style="margin-right: 10px; height: 30px;" />
 </p>
 
 **LLMs:**  
