@@ -47,3 +47,6 @@
   <img src="https://img.shields.io/badge/Gemini-LLM-blueviolet?style=flat-square&logo=google&logoColor=white" alt="Gemini" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/OpenRouter-LLM-orange?style=flat-square" alt="OpenRouter" style="margin-right: 10px; height: 30px;" />
 </p>
+
+[![](https://komarev.com/ghpvc/?username=rx6ru&color=blue)](https://komarev.com/ghpvc/)
+
