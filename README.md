@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" style="margin-right: 10px; height: 30px;" />
 </p>
+
 
 **Techs:**  
 <p>
@@ -25,7 +27,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS" style="margin-right: 10px; height: 30px;" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/Fiber-0090FF?style=flat-square&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgofiber%2Ffiber%2Fmaster%2Fassets%2Flogo.png&logoColor=white" alt="Fiber" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; height: 30px;" />
   
