@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="margin-right: 10px; height: 30px;" />
+  <img src="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/docs/logo/light.png" alt="Ghidra Icon" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=orange" alt="n8n" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Pears-P2P-green?style=flat-square" alt="Pears P2P" style="margin-right: 10px; height: 30px;" />
   <span style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GHIDRA_1.png" alt="Ghidra Icon" style="height: 28px;" />
@@ -44,9 +47,10 @@
 
 **LLMs:**  
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-GPT-blue?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/Gemini-LLM-blueviolet?style=flat-square&logo=google&logoColor=white" alt="Gemini" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/OpenRouter-LLM-orange?style=flat-square" alt="OpenRouter" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/OpenAI-LLM-white?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Gemini-LLM-blue?style=flat-square&logo=google&logoColor=white" alt="Gemini" style="margin-right: 10px; height: 30px;" />
+  <img src="https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg" alt="Deepseek" style="height: 30px;" />
+  <img src="https://img.shields.io/badge/OpenRouter-LLM-black?style=flat-square" alt="OpenRouter" style="margin-right: 10px; height: 30px;" />
 </p>
 
 [![](https://komarev.com/ghpvc/?username=rx6ru&color=blue)](https://komarev.com/ghpvc/)
