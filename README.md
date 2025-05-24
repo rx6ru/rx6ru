@@ -76,6 +76,9 @@
   <a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank">
     <img src="https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/docs/logo/light.png" alt="ModelContextProtocol" style="height: 30px; margin-right: 10px;" />
   </a>
+  <a href="https://docs.pears.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Pears-P2P-green?style=flat-square" alt="Pears P2P" style="margin-right: 10px; height: 30px;" />
+  </a>
   <a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     <span style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 10px;">
       <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/images/GHIDRA_1.png" alt="Ghidra Icon" style="height: 28px;" />
