@@ -27,10 +27,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS" style="margin-right: 10px; height: 30px;" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" style="margin-right: 10px; height: 30px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; height: 30px;" />
-  
-  <img src="https://img.shields.io/badge/Appwrite-2D9CDB?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Supabase-34D28E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/MongoDB-00694B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 10px; height: 30px;" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 30px;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px; height: 30px;" />
