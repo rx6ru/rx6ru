@@ -21,6 +21,9 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin-right: 10px; height: 30px;" />
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" style="margin-right: 10px; height: 30px;" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C" style="margin-right: 10px; height: 30px;" />
   </a>
@@ -30,9 +33,7 @@
   <a href="https://golang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" style="margin-right: 10px; height: 30px;" />
   </a>
-  <a href="https://docs.soliditylang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" style="margin-right: 10px; height: 30px;" />
-  </a>
+
 </p>
 
 
