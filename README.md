@@ -62,6 +62,21 @@
   <a href="https://www.sqlite.org/" target="_blank">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="margin-right: 10px; height: 30px;" />
   </a>
+
+  <a href="https://neon.tech/" target="_blank">
+    <img src="https://twingo.co.il/wp-content/uploads/2025/05/NeonDB-White-1024x290.png" alt="NeonDB" style="height: 30px; margin-right: 10px;" />
+  </a>
+
+
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" style="margin-right: 10px; height: 30px;" />
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zotero&logoColor=white" alt="Zustand" style="margin-right: 10px; height: 30px;" />
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" style="margin-right: 10px; height: 30px;" />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px; height: 30px;" />
   </a>
