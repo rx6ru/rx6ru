@@ -6,13 +6,15 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="495">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%201%20min-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.2 kB Used in GitHub's Storage 
  > 
-> 🏆 224 Contributions in the Year 2025
+> 🏆 228 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,18 +25,16 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-🌆 Daytime                95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌃 Evening                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-🌙 Night                  190 commits         ███████████░░░░░░░░░░░░░░   43.18 % 
+🌞 Morning                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌆 Daytime                95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+🌃 Evening                88 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌙 Night                  190 commits         ███████████░░░░░░░░░░░░░░   42.79 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 Java                     1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   38.04 % 
 CSS                      48 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
