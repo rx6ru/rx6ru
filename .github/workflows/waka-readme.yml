@@ -30,7 +30,7 @@ jobs:
           SHOW_LANGUAGE: true                 # Flag can be set to False to hide the programming languages you use
           SHOW_OS: true                       # Flag can be set to False to hide your OS details
           SHOW_PROJECTS: false                 # Flag can be set to False to hide the projects worked on
-          SHOW_TIMEZONE: true                 # Flag can be set to False to hide the time zone you are in
+          SHOW_TIMEZONE: false                 # Flag can be set to False to hide the time zone you are in
           SHOW_EDITORS: true                  # Flag can be set to False to hide the list of code editors/IDEs used
           SHOW_LANGUAGE_PER_REPO: false       # Flag can be set to False to hide the number of repositories in different programming languages and frameworks
           SHOW_UPDATED_DATE: true             # Flag can be set to True to show the updated date in end of paragraph
