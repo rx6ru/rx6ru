@@ -6,13 +6,13 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="495">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 103.2 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2025
+> 🏆 224 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,6 +20,16 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌆 Daytime                95 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+🌃 Evening                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌙 Night                  190 commits         ███████████░░░░░░░░░░░░░░   43.18 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,13 +45,6 @@ JavaScript               11 mins             █░░░░░░░░░░�
 🔥 Editors: 
 IntelliJ IDEA            2 hrs 22 mins       ███████████████████░░░░░░   76.44 % 
 VS Code                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-
-🐱‍💻 Projects: 
-airline-reservation-syste1 hr 38 mins        █████████████░░░░░░░░░░░░   52.59 % 
-TotaPakhi                39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-immortal_airlines        39 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-immortal_airlines_2      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-wombat                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
 Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
