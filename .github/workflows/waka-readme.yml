@@ -21,7 +21,7 @@ jobs:
           SYMBOL_VERSION: 1
         
 
-          SHOW_LINES_OF_CODE: false           # Flag can be set to True to show the number of lines of code writen till date
+          SHOW_LINES_OF_CODE: true           # Flag can be set to True to show the number of lines of code writen till date
           SHOW_TOTAL_CODE_TIME: true          # Flag can be set to False to hide Code Time
           SHOW_PROFILE_VIEWS: false           # Flag can be set to False to hide Profile Views
           SHOW_SHORT_INFO: true               # Flag can be set to False to hide the short fun fact info of a user
@@ -36,5 +36,3 @@ jobs:
           SHOW_UPDATED_DATE: true             # Flag can be set to True to show the updated date in end of paragraph
           UPDATED_DATE_FORMAT: "%d/%m/%Y"     # Flag can be set to put the updated date into a format. The default is "%d/%m/%Y %H:%M:%S"
           SHOW_LOC_CHART: false               # Flag can be set to False to hide the lines of code written in different quarters of different years
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_LINES_OF_CODE: true
