@@ -1,0 +1,38 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_PAT }}
+
+          COMMIT_MESSAGE: "Updated Stats"
+          SYMBOL_VERSION: 1
+          IGNORED_REPOS: "TheQuantumSilver"
+
+          SHOW_LINES_OF_CODE: false           # Flag can be set to True to show the number of lines of code writen till date
+          SHOW_TOTAL_CODE_TIME: true          # Flag can be set to False to hide Code Time
+          SHOW_PROFILE_VIEWS: false           # Flag can be set to False to hide Profile Views
+          SHOW_SHORT_INFO: true               # Flag can be set to False to hide the short fun fact info of a user
+          SHOW_COMMIT: false                  # Flag can be set to False to hide the commit stats
+          SHOW_DAYS_OF_WEEK: false            # Flag can be set to False to hide the commits made on the different days of the week
+          SHOW_LANGUAGE: true                 # Flag can be set to False to hide the programming languages you use
+          SHOW_OS: true                       # Flag can be set to False to hide your OS details
+          SHOW_PROJECTS: true                 # Flag can be set to False to hide the projects worked on
+          SHOW_TIMEZONE: true                 # Flag can be set to False to hide the time zone you are in
+          SHOW_EDITORS: true                  # Flag can be set to False to hide the list of code editors/IDEs used
+          SHOW_LANGUAGE_PER_REPO: false       # Flag can be set to False to hide the number of repositories in different programming languages and frameworks
+          SHOW_UPDATED_DATE: true             # Flag can be set to True to show the updated date in end of paragraph
+          UPDATED_DATE_FORMAT: "%d/%m/%Y"     # Flag can be set to put the updated date into a format. The default is "%d/%m/%Y %H:%M:%S"
+          SHOW_LOC_CHART: false               # Flag can be set to False to hide the lines of code written in different quarters of different years
