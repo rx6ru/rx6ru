@@ -19,7 +19,7 @@ jobs:
 
           COMMIT_MESSAGE: "Updated Stats"
           SYMBOL_VERSION: 1
-          IGNORED_REPOS: "TheQuantumSilver"
+        
 
           SHOW_LINES_OF_CODE: false           # Flag can be set to True to show the number of lines of code writen till date
           SHOW_TOTAL_CODE_TIME: true          # Flag can be set to False to hide Code Time
