@@ -3,7 +3,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zsJaJKEBTM)
 
-<img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="495">
+<img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2053%20mins-blue)
