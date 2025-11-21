@@ -37,17 +37,17 @@
 
 ```text
 💬 Programming Languages: 
-Git Config               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2025 UTC
+ Last Updated on 21/11/2025 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
