@@ -6,7 +6,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -36,18 +36,18 @@
 
 ```text
 💬 Programming Languages: 
-Kotlin                   42 mins             █████████████████████████   98.88 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Kotlin                   30 mins             █████████████████████████   98.47 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔥 Editors: 
-Android Studio           42 mins             █████████████████████████   100.00 % 
+Android Studio           31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/12/2025 UTC
+ Last Updated on 08/12/2025 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
