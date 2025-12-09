@@ -6,53 +6,22 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%205%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 103.6 kB Used in GitHub's Storage 
+> 📦 90.6 kB Used in GitHub's Storage 
  > 
 > 🏆 246 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-🌆 Daytime                98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-🌃 Evening                102 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-🌙 Night                  191 commits         ██████████░░░░░░░░░░░░░░░   41.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   5 hrs 12 mins       ███████████████████░░░░░░   77.30 % 
-XML                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Git Config               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Prolog                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 23 mins       ████████████████░░░░░░░░░   65.27 % 
-Android Studio           1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Antigravity              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-
-💻 Operating System: 
-Linux                    6 hrs 44 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/12/2025 UTC
+ Last Updated on 09/12/2025 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
