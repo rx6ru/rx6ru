@@ -6,11 +6,13 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2032%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 90.6 kB Used in GitHub's Storage 
+> 📦 90.7 kB Used in GitHub's Storage 
  > 
 > 🏆 246 Contributions in the Year 2025
  > 
@@ -20,8 +22,37 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 09/12/2025 UTC
+```text
+🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+🌃 Evening                120 commits         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+🌙 Night                  210 commits         ██████████░░░░░░░░░░░░░░░   40.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   9 hrs 27 mins       █████████████░░░░░░░░░░░░   53.68 % 
+XML                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+JavaScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 17 mins      █████████████████░░░░░░░░   69.81 % 
+Android Studio           4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Antigravity              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+
+💻 Operating System: 
+Linux                    17 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 10/12/2025 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
