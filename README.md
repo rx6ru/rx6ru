@@ -6,13 +6,15 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 90.7 kB Used in GitHub's Storage 
+> 📦 90.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 246 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-🌃 Evening                120 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-🌙 Night                  212 commits         ██████████░░░░░░░░░░░░░░░   40.85 % 
+🌞 Morning                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+🌃 Evening                124 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+🌙 Night                  212 commits         ██████████░░░░░░░░░░░░░░░   40.54 % 
 ```
 
 
