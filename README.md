@@ -6,15 +6,15 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 91.2 kB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,22 +36,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs               ███████████░░░░░░░░░░░░░░   42.64 % 
-JavaScript               2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
-JSON                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Python                   3 hrs               ████████████░░░░░░░░░░░░░   47.18 % 
+JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+JSON                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Go                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       ███████████████░░░░░░░░░░   61.58 % 
-Antigravity              2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+VS Code                  4 hrs 36 mins       ██████████████████░░░░░░░   72.11 % 
+Antigravity              1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
 
 💻 Operating System: 
-Linux                    7 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 UTC
+ Last Updated on 01/01/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
