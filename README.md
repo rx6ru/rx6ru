@@ -6,9 +6,9 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2030%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,18 +36,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ██████████████████░░░░░░░   73.07 % 
-Go                       1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Go                       1 hr 6 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/01/2026 UTC
+ Last Updated on 05/01/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
