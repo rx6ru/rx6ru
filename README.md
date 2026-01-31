@@ -6,7 +6,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -22,36 +22,8 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-🌆 Daytime                139 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-🌃 Evening                186 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌙 Night                  263 commits         ██████████░░░░░░░░░░░░░░░   38.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
-JSON                     4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Git Config               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Rust                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-
-🔥 Editors: 
-Zed                      16 hrs 36 mins      █████████████████████████   98.42 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-💻 Operating System: 
-Linux                    16 hrs 52 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 30/01/2026 UTC
+ Last Updated on 31/01/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
