@@ -24,35 +24,8 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-🌆 Daytime                149 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌃 Evening                200 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌙 Night                  278 commits         █████████░░░░░░░░░░░░░░░░   37.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.80 % 
-Markdown                 5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Git Config               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Python                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-
-🔥 Editors: 
-Zed                      22 hrs 42 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    22 hrs 42 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/02/2026 UTC
+ Last Updated on 24/02/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
