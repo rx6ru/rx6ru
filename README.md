@@ -10,22 +10,49 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.54%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 92.0 kB Used in GitHub's Storage 
+> 📦 92.2 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2026
+> 🏆 68 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 24/02/2026 UTC
+```text
+🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+🌆 Daytime                150 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+🌃 Evening                206 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+🌙 Night                  287 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               7 hrs 52 mins       ███████████████░░░░░░░░░░   58.69 % 
+Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Docker                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+
+🔥 Editors: 
+Zed                      13 hrs 24 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    13 hrs 24 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/02/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
