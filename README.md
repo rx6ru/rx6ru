@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -16,7 +16,7 @@
 
 > 📦 92.2 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-🌆 Daytime                150 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-🌃 Evening                206 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌙 Night                  287 commits         ██████████░░░░░░░░░░░░░░░   38.32 % 
+🌞 Morning                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌆 Daytime                150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌃 Evening                206 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌙 Night                  287 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
 ```
 
 
@@ -38,21 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 52 mins       ███████████████░░░░░░░░░░   58.69 % 
-Markdown                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Docker                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JavaScript               8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+Markdown                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Other                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+TypeScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Bash                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-Zed                      13 hrs 24 mins      █████████████████████████   100.00 % 
+Zed                      25 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2026 UTC
+ Last Updated on 26/02/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
