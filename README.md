@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,21 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Markdown                 4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-TypeScript               3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Bash                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Markdown                 4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Other                    3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+TypeScript               3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Bash                     3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 
 🔥 Editors: 
-Zed                      23 hrs 12 mins      █████████████████████████   100.00 % 
+Zed                      22 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/02/2026 UTC
+ Last Updated on 01/03/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
