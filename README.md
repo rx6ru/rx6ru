@@ -38,22 +38,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 27 mins      ████████████████░░░░░░░░░   64.98 % 
-Markdown                 4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Git Config               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   12 hrs 16 mins      █████████████████░░░░░░░░   67.60 % 
+Markdown                 3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Git Config               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Zed                      11 hrs 15 mins      █████████████░░░░░░░░░░░░   50.60 % 
-Antigravity              10 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.40 % 
+Antigravity              10 hrs 59 mins      ███████████████░░░░░░░░░░   60.53 % 
+Zed                      7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.47 % 
 
 💻 Operating System: 
-Linux                    22 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/03/2026 UTC
+ Last Updated on 08/03/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
