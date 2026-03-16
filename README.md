@@ -38,21 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 44 mins       ████████████████░░░░░░░░░   63.08 % 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Markdown                 5 hrs 22 mins       █████████████████░░░░░░░░   67.15 % 
+TypeScript               2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Antigravity              9 hrs 6 mins        █████████████████████████   100.00 % 
+Antigravity              7 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2026 UTC
+ Last Updated on 16/03/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
