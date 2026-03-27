@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.57%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,17 +38,20 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 59 mins        ███████████████████████░░   90.64 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 UTC
+ Last Updated on 27/03/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
