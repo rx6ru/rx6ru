@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.61%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,22 +38,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Markdown                 8 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Python                   7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Git Config               2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TypeScript               9 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Markdown                 8 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Python                   8 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+Git Config               2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 50 mins      █████████████░░░░░░░░░░░░   53.20 % 
-Antigravity              14 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+VS Code                  16 hrs 50 mins      █████████████░░░░░░░░░░░░   51.98 % 
+Antigravity              15 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.02 % 
 
 💻 Operating System: 
-Linux                    31 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 UTC
+ Last Updated on 02/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
