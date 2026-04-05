@@ -38,22 +38,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
-Python                   6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Markdown                 5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Git Config               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Markdown                 2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Python                   2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Git Config               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Bash                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 33 mins      ████████████████░░░░░░░░░   63.06 % 
-Antigravity              9 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.94 % 
+Antigravity              7 hrs 28 mins       █████████████████████░░░░   83.31 % 
+VS Code                  1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 
 💻 Operating System: 
-Linux                    24 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 UTC
+ Last Updated on 05/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
