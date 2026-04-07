@@ -38,22 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-Git Config               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-Python                   1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Bash                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Markdown                 1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.66 % 
+Bash                     56 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 12 mins       ████████████████████████░   94.92 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Antigravity              2 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 UTC
+ Last Updated on 07/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
