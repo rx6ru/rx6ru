@@ -38,21 +38,20 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   35.66 % 
-Bash                     56 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Python                   44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   41 mins             ███████████████████████░░   92.19 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 53 mins       █████████████████████████   100.00 % 
+Antigravity              44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 UTC
+ Last Updated on 08/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
