@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.61%20million%20lines%20of%20code-blue?style=flat)
 
@@ -24,34 +24,8 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-🌆 Daytime                165 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                217 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌙 Night                  302 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   41 mins             ███████████████████████░░   92.19 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🔥 Editors: 
-Antigravity              44 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    44 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 08/04/2026 UTC
+ Last Updated on 09/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
