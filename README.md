@@ -14,13 +14,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 95.6 kB Used in GitHub's Storage 
+> 📦 95.8 kB Used in GitHub's Storage 
  > 
-> 🏆 128 Contributions in the Year 2026
+> 🏆 129 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -38,18 +38,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             █████████████████░░░░░░░░   69.08 % 
-Markdown                 7 mins              ████████░░░░░░░░░░░░░░░░░   30.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/04/2026 UTC
+ Last Updated on 16/04/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
