@@ -38,22 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 1 min         ██████████████████░░░░░░░   73.10 % 
-TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    2 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.15 % 
+TypeScript               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       ████████████████████████░   97.26 % 
-Antigravity              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2026 UTC
+ Last Updated on 05/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
