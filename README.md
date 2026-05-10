@@ -38,21 +38,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.09 % 
-Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-JavaScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/05/2026 UTC
+ Last Updated on 10/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
