@@ -8,15 +8,13 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2011%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.68%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 95.8 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,7 +23,7 @@
 > 🔑 7 Private Repositories 
  > 
 
- Last Updated on 16/05/2026 UTC
+ Last Updated on 17/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
