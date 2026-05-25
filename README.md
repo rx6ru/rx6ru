@@ -38,21 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 2 mins       ██████████████████████░░░   86.82 % 
-Other                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Git Config               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               18 hrs 34 mins      ██████████████████████░░░   88.70 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Antigravity              29 hrs 59 mins      █████████████████████████   100.00 % 
+Antigravity              20 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 UTC
+ Last Updated on 25/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
