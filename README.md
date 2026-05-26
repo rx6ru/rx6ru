@@ -24,35 +24,8 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌆 Daytime                254 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌃 Evening                314 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌙 Night                  330 commits         ████████░░░░░░░░░░░░░░░░░   31.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               18 hrs 34 mins      ██████████████████████░░░   88.70 % 
-Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-🔥 Editors: 
-Antigravity              20 hrs 56 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    20 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 25/05/2026 UTC
+ Last Updated on 26/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
