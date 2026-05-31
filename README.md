@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,20 +38,21 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.96 % 
-Other                    48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-JSON                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Markdown                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
+Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Text                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+JSON                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       ██████████████████████░░░   87.91 % 
+Codex CLI                44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 
 💻 Operating System: 
-Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 UTC
+ Last Updated on 31/05/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
