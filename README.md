@@ -8,15 +8,15 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2031%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 95.9 kB Used in GitHub's Storage 
+> 📦 96.1 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2026
+> 🏆 264 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,10 +27,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-🌆 Daytime                277 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-🌃 Evening                332 commits         ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌙 Night                  339 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌞 Morning                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+🌆 Daytime                284 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+🌃 Evening                332 commits         ████████░░░░░░░░░░░░░░░░░   30.10 % 
+🌙 Night                  347 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
 ```
 
 
@@ -38,22 +38,22 @@
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.72 % 
-Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Text                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Other                    5 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.76 % 
+Markdown                 2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Text                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       █████████████░░░░░░░░░░░░   52.71 % 
-Codex CLI                5 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.29 % 
+VS Code                  5 hrs 57 mins       █████████████░░░░░░░░░░░░   51.66 % 
+Codex CLI                5 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.34 % 
 
 💻 Operating System: 
-Linux                    11 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 UTC
+ Last Updated on 03/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
