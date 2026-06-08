@@ -8,11 +8,13 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%201%20min-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 96.2 kB Used in GitHub's Storage 
+> 📦 96.1 kB Used in GitHub's Storage 
  > 
 > 🏆 268 Contributions in the Year 2026
  > 
@@ -22,8 +24,36 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 07/06/2026 UTC
+```text
+🌞 Morning                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+🌆 Daytime                292 commits         ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                337 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌙 Night                  353 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   36.07 % 
+Python                   8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+JavaScript               4 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Markdown                 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+CSS                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+
+🔥 Editors: 
+Codex CLI                23 hrs 28 mins      ██████████████████░░░░░░░   73.81 % 
+VS Code                  8 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+
+💻 Operating System: 
+Linux                    31 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
