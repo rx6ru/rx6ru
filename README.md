@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,22 +38,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
-Other                    7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
-JavaScript               4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Markdown                 4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+Other                    5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Markdown                 5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+JavaScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-Codex CLI                19 hrs 6 mins       ██████████████████░░░░░░░   71.51 % 
-VS Code                  7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Codex CLI                12 hrs 42 mins      ███████████████░░░░░░░░░░   58.55 % 
+VS Code                  8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
+Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 💻 Operating System: 
-Linux                    26 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 UTC
+ Last Updated on 11/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
