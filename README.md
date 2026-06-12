@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,23 +38,23 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Other                    5 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Markdown                 5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-JavaScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
+Markdown                 3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Python                   2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Codex CLI                12 hrs 42 mins      ███████████████░░░░░░░░░░   58.55 % 
-VS Code                  8 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
-Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+VS Code                  6 hrs 50 mins       █████████████░░░░░░░░░░░░   53.18 % 
+Codex CLI                5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Linux                    21 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/06/2026 UTC
+ Last Updated on 12/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
