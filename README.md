@@ -8,15 +8,15 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 96.1 kB Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,8 +24,37 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 13/06/2026 UTC
+```text
+🌞 Morning                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                295 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌃 Evening                352 commits         ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌙 Night                  383 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
+Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Other                    4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+HTML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 4 mins       ████████████████░░░░░░░░░   62.89 % 
+Codex CLI                7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+💻 Operating System: 
+Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 14/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
