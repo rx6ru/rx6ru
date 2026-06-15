@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,23 +38,23 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
-Markdown                 5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Other                    4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-TypeScript               1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-HTML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+JavaScript               5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Markdown                 4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+TypeScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+CSS                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 4 mins       ████████████████░░░░░░░░░   62.89 % 
-Codex CLI                7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
-Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+VS Code                  14 hrs 26 mins      ████████████████░░░░░░░░░   64.34 % 
+Codex CLI                7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+Claude Code              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2026 UTC
+ Last Updated on 15/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
