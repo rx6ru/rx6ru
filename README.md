@@ -8,7 +8,7 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -38,22 +38,23 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               31 hrs 52 mins      ████████████████░░░░░░░░░   62.80 % 
-Markdown                 7 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Other                    4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-CSS                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JavaScript               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               22 hrs 50 mins      ████████████░░░░░░░░░░░░░   49.87 % 
+Markdown                 11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+JavaScript               3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Other                    3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+CSS                      1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Codex CLI                31 hrs 8 mins       ███████████████░░░░░░░░░░   61.37 % 
-VS Code                  19 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.63 % 
+Codex CLI                24 hrs 7 mins       █████████████░░░░░░░░░░░░   52.68 % 
+VS Code                  17 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+Claude Code              4 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 
 💻 Operating System: 
-Linux                    50 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 UTC
+ Last Updated on 22/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
