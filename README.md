@@ -24,37 +24,8 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-🌆 Daytime                580 commits         ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-🌃 Evening                631 commits         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-🌙 Night                  708 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 14 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.37 % 
-JavaScript               4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-TypeScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Python                   3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Other                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.88 % 
-Codex CLI                10 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   33.52 % 
-VS Code                  7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-
-💻 Operating System: 
-Linux                    30 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 26/06/2026 UTC
+ Last Updated on 27/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
