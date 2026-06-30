@@ -38,23 +38,23 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Python                   3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Other                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-TypeScript               2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Python                   3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
+Other                    2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+TypeScript               2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+CSS                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.28 % 
-Codex CLI                5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-VS Code                  3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Claude Code              5 hrs 35 mins       █████████████░░░░░░░░░░░░   53.12 % 
+Codex CLI                4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 💻 Operating System: 
-Linux                    17 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 UTC
+ Last Updated on 30/06/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
