@@ -8,22 +8,47 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.26%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2042%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 99.9 kB Used in GitHub's Storage 
+> 📦 100.5 kB Used in GitHub's Storage 
  > 
-> 🏆 568 Contributions in the Year 2026
+> 🏆 617 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 UTC
+```text
+🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌆 Daytime                594 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+🌃 Evening                651 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌙 Night                  747 commits         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 25/07/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
