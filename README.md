@@ -8,17 +8,13 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2011%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 99.7 kB Used in GitHub's Storage 
+> 📦 99.8 kB Used in GitHub's Storage 
  > 
-> 🏆 619 Contributions in the Year 2026
+> 🏆 629 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,10 +25,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-🌆 Daytime                594 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                652 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-🌙 Night                  748 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+🌆 Daytime                594 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌃 Evening                662 commits         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+🌙 Night                  748 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
 ```
 
 
@@ -56,7 +52,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 UTC
+ Last Updated on 28/07/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
