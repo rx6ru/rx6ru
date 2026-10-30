@@ -8,9 +8,9 @@
 <img src="https://media1.tenor.com/m/y6VAySsx2UYAAAAC/blasphemous-2-waking-up.gif" alt="Blasphemous 2 Waking Up" width="900">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-282%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -40,23 +40,50 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 17 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+Other                    17 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Python                   13 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+TypeScript               9 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+JSON                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      47 hrs 15 mins      ███████████████████░░░░░░   74.67 % 
+Claude Code              15 hrs 22 mins      ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Cursor                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    63 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 63 hrs (99.57%)
+
+✍️ 11,990 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 54,895,580 Input Tokens, 5,152,128 Output Tokens
+
+💵 $369.40 Estimated AI Cost This Week
+
+🧠 394 AI Sessions, 635 AI Prompts
+
+GPT                      7,681 lines         ███████████████░░░░░░░░░░   61.24 % 
+Sonnet                   2,712 lines         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+K                        1,295 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+DeepSeek                 854 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 14,840 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 UTC
+ Last Updated on 30/10/2026 UTC
 <!--END_SECTION:waka-->                                                                                                                               
 
 ---
